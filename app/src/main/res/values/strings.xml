@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">文件加密助手</string>
+    <string name="copy">copy</string>
+    <string name="delete">delete</string>
+    <string name="share">share</string>
+    <string name="more">more</string>
+</resources>
